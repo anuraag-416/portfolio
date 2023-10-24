@@ -1,0 +1,65 @@
+[
+{
+    "name": "VIT - Med Care",
+    "desc": "Ambulance booking service built for VIT and nearby areas using android and java",
+    "image": "medcare",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/anuraag-416/VIT-med-care"
+    }
+},
+{
+  "name": "Heart Disease Prediction",
+  "desc": "Predicting Heart Disease through 14 input parameters. Utilising Machine Learning and Deep learning methods",
+  "image": "heart",
+  "category": "ML",
+  "links": {
+    "code": "https://github.com/anuraag-416/Heart-Disease-Prediction"
+  }
+},
+{
+  "name": "Telugu Text Summarisation",
+  "desc": "Text summariser for telugu language using Bag of words , Tf-Idf and indic-NLP library. Front end integrated with Flask",
+  "image": "telugus",
+  "category": "NLP",
+  "links": {
+    "code": "https://github.com/anuraag-416/Telugu-Text-Summarisation"
+  }
+},
+{
+  "name": "Sentimental Analysis of Covid Vaccine Tweets",
+  "desc": "Sentimental analysis of covid vaccine tweets using LSTM and RNN , external tweety api and real time data model.",
+  "image": "sentiment",
+  "category": "NLP",
+  "links": {
+    "code": "https://github.com/anuraag-416/covid19-vaccy-tweets-NLP"
+  }
+},
+  {
+    "name": "Loan Management System",
+    "desc": " Loan management web app built in Java , Spring boot and AWS.",
+    "image": "lms",
+    "category": "webapps",
+    "links": {
+      "code": "https://github.com/anuraag-416/Loans-App"
+    }
+  },
+  {
+    "name": "Library Managment System",
+    "desc": "Library management web app built in Java , Spring boot and AWS",
+    "image": "libms",
+    "category": "webapps",
+    "links": {
+      "code": "https://github.com/anuraag-416/library-management-system"
+    }
+  },
+  {
+    "name": "Community Quiz App",
+    "desc": "Community Quiz app where people can sign up and build quizzes for others, while attempting others quizzes.",
+    "image": "quizapp",
+    "category": "webapps",
+    "links": {
+      "code": "https://github.com/anuraag-416/Quiz-App-Spring"
+    }
+  }
+]
